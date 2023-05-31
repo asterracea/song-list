@@ -19,7 +19,7 @@ if ($con->connect_error){
 <body class="body-login">
     <div class="container-login" data-tilt>
         <div class="right">
-            <img src="teach.png" alt="">
+            <img src="img/teach.png" alt="">
         </div>
         <div class="login">
             <!-- form -->
